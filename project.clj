@@ -1,4 +1,4 @@
-(defproject ring-server "0.4.1-ACROLINX-SNAPSHOT"
+(defproject ring-server "0.4.1-ACROLINX"
   :description "Library for running Ring web servers"
   :url "https://github.com/weavejester/ring-server"
   :license {:name "Eclipse Public License"
